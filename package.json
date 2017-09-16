@@ -7,10 +7,8 @@
   "private": true,
   "license": "BSD",
   "dependencies": {
+    "socket.io": "^2.0.2"
     "express": "4.13.4"
-    "socket.io-adapter": "latest",
-    "socket.io-client": "latest",
-    "socket.io-parser": "latest"
   },
   "scripts": {
     "start": "node index.js"
